@@ -3,7 +3,6 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-<<<<<<< HEAD
  "scripts": {
   "start": "react-scripts start",   
   "build": "vite build",            
@@ -15,14 +14,12 @@
 },
 
   
-=======
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
->>>>>>> a5b065a0ffe7812395fd9fd6e268a03b82db3fb9
   "dependencies": {
     "firebase": "^11.2.0",
     "react": "^18.3.1",
