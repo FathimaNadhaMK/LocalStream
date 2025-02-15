@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/LocalStream/static/css/main.d21dca73.css",
+    "main.js": "/LocalStream/static/js/main.68e036c3.js",
+    "index.html": "/LocalStream/index.html",
+    "main.d21dca73.css.map": "/LocalStream/static/css/main.d21dca73.css.map",
+    "main.68e036c3.js.map": "/LocalStream/static/js/main.68e036c3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d21dca73.css",
+    "static/js/main.68e036c3.js"
+  ]
+}
