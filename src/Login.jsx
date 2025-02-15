@@ -85,9 +85,10 @@ function Login() {
             required
             disabled={loading}
           />
-          <a href="#" className="forgot-password" onClick={handleForgotPassword}>
-            Forgot Password?
-          </a>
+         <button type="button" className="forgot-password" onClick={handleForgotPassword}>
+  Forgot Password?
+</button>
+
         </div>
 
         <div className="remember-me">
